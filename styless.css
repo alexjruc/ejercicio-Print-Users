@@ -36,8 +36,12 @@ li{
 
 .user h2{
     text-transform: uppercase;
+    cursor: pointer;
 }
 
+.user h2:hover {
+    color: rgb(197, 12, 12);
+}
 
 .usersHobbies{
     background-color:lightblue;
